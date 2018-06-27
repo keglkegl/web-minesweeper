@@ -1,0 +1,16 @@
+.divPlayer1 {
+  border-style: solid;
+  border-color: black;
+  background-color: green;
+}
+.divPlayer2{
+  border-style: solid;
+  border-color: black;
+  background-color: green;
+}
+.whosTurn{
+  border-style: solid;
+  border-color: black;
+  font-size: 20px;
+  background-color: coral;
+}
